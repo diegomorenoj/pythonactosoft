@@ -1,0 +1,13 @@
+numero_1 = int(input("Dame el primer número "))
+numero_2 = int(input("Dame el segundo número "))
+
+print("La suma es ", numero_1 + numero_2)
+print("La resta es ", numero_1 - numero_2)
+print("La multiplicacion es ", numero_1 + numero_2)
+print("La division es ", numero_1 / numero_2)
+print("La división exacta es ", numero_1 // numero_2)
+print("El cuadrado de número 1 es ",  numero_1 ** 2)
+print("La Cuadrado de número 2 es ",  numero_2 ** 2)
+print("El cubo de número 1 es ",  numero_1 ** 3)
+print("El cubo de número 2 es ",  numero_2 ** 3)
+print("El módulo es ", numero_1 % numero_2)
