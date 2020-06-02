@@ -1,3 +1,3 @@
 fecha_nacimiento = int(input("¿En que año naciste? "))
-edad = fecha_nacimiento - 2020
+edad = 2020 - fecha_nacimiento
 print("Tu edad es ", edad)
